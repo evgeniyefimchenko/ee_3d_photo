@@ -1,0 +1,1 @@
+{style src="addons/ee_3d_photo/styles.css"}

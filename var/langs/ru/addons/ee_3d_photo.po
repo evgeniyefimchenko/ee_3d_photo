@@ -1,0 +1,69 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::ee_3d_photo"
+msgid "ee_3d_photo_name"
+msgstr "[Efimchenko.ru] Плеер фото"
+
+msgctxt "Addons::description::ee_3d_photo"
+msgid "ee_3d_photo_description"
+msgstr "Позволяет загрузить фото кадры товара для плеера в каточке товара."
+
+msgctxt "SettingsSections::ee_3d_photo::general"
+msgid "ee_3d_photo_general"
+msgstr "Общее"
+
+msgctxt "SettingsOptions::ee_3d_photo::ee_3d_photo_active"
+msgid "ee_3d_photo_active"
+msgstr "Активация плагина на фронтенде"
+
+msgctxt "SettingsTooltips::ee_3d_photo::ee_3d_photo_active"
+msgid "ee_3d_photo_active_tooltips"
+msgstr "Подключить все необходимые скрипты и вывести 3D картинки если они загружены."
+
+msgctxt "SettingsOptions::ee_3d_photo::ee_3d_photo_show_button"
+msgid "ee_3d_photo_show_button"
+msgstr "Кнопки плеера"
+
+msgctxt "SettingsTooltips::ee_3d_photo::ee_3d_photo_show_button"
+msgid "ee_3d_photo_show_button_tooltips"
+msgstr "Выводить кнопки плеера. Если отключено то выводит только кнопку раскрыть на весь экран."
+
+msgctxt "Languages::ee_3d_photo.uploded"
+msgid "ee_3d_photo.uploded"
+msgstr "Файлы успешно загружены"
+
+msgctxt "Languages::ee_3d_photo.only_jpg"
+msgid "ee_3d_photo.only_jpg"
+msgstr "Поддерживается только формат JPG, загурузка только через кнопку загрузить. Модуль автоматически переименовывает названия файлов."
+
+msgctxt "Languages::ee_3d_photo.count_in_folder"
+msgid "ee_3d_photo.count_in_folder"
+msgstr "Количество уже загруженных файлов *.JPG"
+
+msgctxt "Languages::ee_3d_photo.warning"
+msgid "ee_3d_photo.warning"
+msgstr "Внимание! Перезапись файлов не производится. Кадры будут дописываться к имеющимся. Всё удаление необходимо производить вручную."
+
+msgctxt "Languages::ee_3d_photo.notise"
+msgid "ee_3d_photo.notise"
+msgstr "Из-за ограничения web-сервера загружайте не более [count_files] файлов за один раз."
+
+msgctxt "Languages::ee_3d_photo.auto_resize_foto"
+msgid "ee_3d_photo.auto_resize_foto"
+msgstr "Нарезать фото автоматически."
+
+msgctxt "Languages::ee_3d_photo.load_3d_images"
+msgid "ee_3d_photo.load_3d_images"
+msgstr "Загрузка 3D фото"
+
+msgctxt "Languages::ee_3d_photo.kill_em_all"
+msgid "ee_3d_photo.kill_em_all"
+msgstr "Удалить все кадры"
+
+msgctxt "Languages::ee_3d_photo.kill_em_all_title"
+msgid "ee_3d_photo.kill_em_all_title"
+msgstr "Внимание! Операция необратима. Копии фйлов не создаются."
